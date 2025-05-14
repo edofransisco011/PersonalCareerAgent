@@ -1,70 +1,64 @@
-Profile Summary
-Edo Fransisco is a Blockchain Developer specializing in Smart Contracts and Web3, based in Tangerang Regency, Banten, Indonesia. He leverages AI and Prompt Engineering to enhance efficiency in his work.   
+Edo Fransisco
+Full-Stack & Blockchain Developer | LLM & Prompt Engineer
+Location: Jakarta Metropolitan Area
+Contact:
 
-Edo's technical background includes approximately two years of freelance experience in Full-Stack Web Development. This dual expertise allows him to understand how smart contracts integrate into broader application ecosystems. His core skills are centered around Solidity and the EVM, utilizing tools like Hardhat, Web3.js, Ethers.js, and OpenZeppelin standards for designing, coding, and testing on-chain logic. He uses AI and Prompt Engineering to optimize workflows, generate testing scenarios, accelerate research, and identify potential security nuances in smart contract code.   
+📞 +62 81319473004
 
-Examples of his projects can be found on his GitHub profile. He is interested in emerging areas such as DeFi and Real World Asset (RWA) tokenization.   
+📧 edofransisco011@gmail.com
 
-Experience:
+🌐 Portfolio
 
-Prompt Engineer Freelance (October 2024 - Present, 8 months) 
-Optimized AI-generated content through precise prompts.   
-Developed custom AI workflows for automation, research, and content creation.   
-Refined AI interactions for clear and effective communication.   
-Consulted with clients to tailor AI-powered solutions.   
-Integrated prompt engineering into content strategy, SEO, and social media.   
-  
-Full-stack Developer (Self-Employed) (May 2023 - Present, 2 years 1 month) 
-Partners with businesses and individuals to create high-quality web applications.   
-Handles both front-end and back-end development.   
-Builds custom, responsive, and scalable web applications tailored to client needs.   
-Crafts intuitive user interfaces using the latest front-end technologies.   
-Develops secure and efficient back-end systems, including database integration and API development.   
-Prioritizes clear communication and collaboration with clients.   
-Focuses on writing clean, maintainable code and staying updated with emerging technologies.   
-  
-Top Skills:
+💼 LinkedIn
 
-Open AI    
-GPT-4    
-Custom GPT
-Gemini
-Claude
-Ollama
-DeepSeek
-AI Assisted Development
-Artificial Intellegence
-Prompt engineering
-LLM Engineering
-Python
-Javascript
-Solidity
-Hardhat
-Truffle
-OpenZeppelin
-Blockchain Development
-FullStack development
+💻 GitHub
 
-    
-Languages:
+Professional Summary
+Edo is a Full-Stack Developer specializing in Blockchain Development and Large Language Model (LLM) Engineering. He builds secure, scalable decentralized applications (dApps) and intelligent AI systems using tools like Solidity, Hardhat, and Ethers.js for smart contracts, and employs cutting-edge AI models to enhance automation, research, and decision-making.
 
-Indonesian (Native or Bilingual)    
-English (Professional Working)    
-Certifications:
+His work bridges decentralized finance (DeFi), real-world asset (RWA) tokenization, and AI-driven infrastructure, reflecting a strong intersection of blockchain and AI innovation. Edo thrives in forward-thinking teams that seek to redefine industry standards.
 
-J.P. Morgan - Software Engineering Job Simulation    
-Walmart USA - Advanced Software Engineering Job Simulation    
-Accenture UK - Developer and Technology Job Simulation    
-Lyft - Back-End Engineering Job Simulation    
-HackerRank - SQL Advance    
-Education:
+Core Skills
+Tech: Vertex AI Studio, CrewAI, LangGraph
 
-Purwadhika Digital Technology School - FullStack Website Development (October 2022 - April 2023)    
-Contact Information:
+Blockchain: Solidity, Hardhat, Ethers.js, Ethereum, Polygon
 
-Mobile: 085828706987    
-Email: [email address removed]    
-LinkedIn: www.linkedin.com/in/edo-fransisco    
-Portfolio: edo-portfolio.vercel.app    
-GitHub: github.com/edofransisco011    
+Full-Stack: Modern front-end frameworks, API design, database architecture
 
+AI & LLMs: GPT-4, Claude, Gemini, prompt engineering, AI workflow automation
+
+Languages: Indonesian (Native), English (Professional Working)
+
+Professional Experience
+🔹 Prompt Engineer | Self-Employed (Oct 2024 – Present) | Remote
+Designed and iterated prompt strategies to improve AI-generated content.
+
+Developed custom AI solutions for research, automation, and content creation.
+
+Engineered conversational UX to enhance human-AI interaction.
+
+Advised on AI integration for SEO, content strategy, and LLMOps practices.
+
+🔹 Full-Stack & Blockchain Developer | Self-Employed (May 2023 – Present) | Indonesia
+Led full-cycle development of scalable web and dApps.
+
+Built and deployed smart contracts using industry best practices (OpenZeppelin).
+
+Developed secure backends and responsive frontends.
+
+Collaborated directly with clients to meet strategic goals and streamline development.
+
+Education
+Purwadhika Digital Technology School
+Full-Stack Web Development (Oct 2022 – Apr 2023)
+
+Certifications
+J.P. Morgan – Software Engineering Job Simulation
+
+Walmart USA – Advanced Software Engineering Job Simulation
+
+Accenture UK – Developer and Technology Job Simulation
+
+Lyft – Back-End Engineering Job Simulation
+
+HackerRank – SQL Advanced
